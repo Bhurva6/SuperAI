@@ -1,6 +1,6 @@
 # SuperAI
 my tasks for the superAI internship program
-##For Data Engineering (Option C) 
+## For Data Engineering (Option C) 
 This was the task given to me - 
 <img width="935" alt="Screenshot 2023-12-11 at 9 41 26 PM" src="https://github.com/Bhurva6/SuperAI/assets/75015574/ffb223c9-f940-4b66-91be-a9cf5ea4b867">
 For task 1, this is my HeatMap - 
